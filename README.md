@@ -4,6 +4,13 @@
 
 ## Installation
 
+### Docker Hub
+
+```bash
+$ docker pull mifka01/ulozto-downloader
+```
+
+### Manual
 To get started with **uld-docker**, follow these steps:
 
 1.  Clone the repository to your local machine:
